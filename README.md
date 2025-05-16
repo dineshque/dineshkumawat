@@ -64,6 +64,7 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dinesh-kumar-775575222)
 - 💻 [GitHub](https://github.com/dineshque)
 - 🧠 [Kaggle](https://www.kaggle.com/dineshkumawat020)
+- 🏆 [HackerRank](https://www.hackerrank.com/profile/21f10019561)
 - 📧 dineshque@gmail.com
 
 ---
